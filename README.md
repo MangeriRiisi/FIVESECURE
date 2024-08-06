@@ -15,3 +15,5 @@ External programs are constantly evolving, and so are we. FiveSecure offers regu
 FiveSecure offers a wide range of customizable settings, easily accessible from a user-friendly website.
 
 By choosing FiveSecure, you protect your server and support local entrepreneurship at the same time.
+#
+[DISCORD](https://discord.gg/DUEFs8ME6y)
